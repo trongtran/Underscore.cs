@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Underscorecs", "Underscorecs.csproj", "{AB3CAB0E-3A7C-4DE6-859B-ADBF9922758C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderscorecsTest", "..\UnderscorecsTest\UnderscorecsTest.csproj", "{09449F00-11A0-45E4-B330-F4604F012B65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3CAB0E-3A7C-4DE6-859B-ADBF9922758C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3CAB0E-3A7C-4DE6-859B-ADBF9922758C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3CAB0E-3A7C-4DE6-859B-ADBF9922758C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3CAB0E-3A7C-4DE6-859B-ADBF9922758C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09449F00-11A0-45E4-B330-F4604F012B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09449F00-11A0-45E4-B330-F4604F012B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09449F00-11A0-45E4-B330-F4604F012B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09449F00-11A0-45E4-B330-F4604F012B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
